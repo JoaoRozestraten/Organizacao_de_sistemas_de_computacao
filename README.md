@@ -2,7 +2,7 @@
 
 This repository contains practical laboratory exercises and assignments for the **Computer Systems Organization** course. The projects are implemented in **x86 Assembly language** (16-bit DOS), focusing on low-level programming concepts, memory management, and system interruptions.
 
-## 📁 Repository Structure
+## Repository Structure
 
 The repository is organized into directories representing different laboratory sessions, each containing specific Assembly tasks:
 
@@ -12,13 +12,13 @@ The repository is organized into directories representing different laboratory s
 - **`Lab05/`**: Advanced laboratory activities involving multiple assembly files.
 - **`A_Teste/`**: Test environment and experimental code snippets.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Language:** x86 Assembly (16-bit)
 - **Environment:** DOS (Designed to be run via an emulator like DOSBox)
 - **Assembler:** MASM / TASM (compatible syntax)
 
-## 🚀 How to Run
+## How to Run
 
 To assemble and execute these programs, you will need an x86 assembler (like TASM or MASM) and a DOS emulator (like DOSBox) if you are on a modern 64-bit operating system.
 
@@ -40,7 +40,7 @@ To assemble and execute these programs, you will need an x86 assembler (like TAS
    ATIV1_1.EXE
    ```
 
-## 📚 Concepts Covered
+## Concepts Covered
 
 Throughout these exercises, several core concepts of computer architecture are explored:
 - Data segments (`.data`), code segments (`.code`), and stack setup.
